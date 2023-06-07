@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dbsara
-- 👀 I’m interested in front end developing
+- 👀 I’m interested in front-end developing and web design
 - 🌱 I’m currently learning C# and .NET
 - 💞️ I’m looking to collaborate on anything that stimulates my creativity
 
